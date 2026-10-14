@@ -11,17 +11,17 @@ This project focuses on analyzing sales and profitability data using Microsoft E
 - Excel Slicers
   
 **Dashboard Features**
-1. Monthly Revenue and Profit Analysis
+1. Monthly Revenue and Profit Analysis:
 A line chart comparing monthly revenue and gross profit from January to December.
-2. Top 5 Countries by Revenue
+2. Top 5 Countries by Revenue:
 A bar chart comparing revenue across the five countries displayed in the dashboard.
-3. Revenue Share by Channel
+3. Revenue Share by Channel:
 A pie chart showing the revenue distribution across Corporate, Marketplace, Online Store, and Retail Partners.
-4. Region-Wise Comparison
+4. Region-Wise Comparison:
 A doughnut chart comparing revenue distribution across Central Europe, Northern Europe, Southern Europe, and Western Europe.
-5. Country-Wise Revenue Map
+5. Country-Wise Revenue Map:
 A map chart displaying the geographical distribution of revenue across countries.
-6. Interactive Filters
+6. Interactive Filters:
 Slicers allow users to filter dashboard data by product category, country, and quarter.
 
 **Key Performance Indicators (KPIs)**
