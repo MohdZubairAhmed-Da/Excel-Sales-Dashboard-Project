@@ -1,16 +1,16 @@
-ABC Executive Summary & Profitability Dashboard | Excel
+**Executive Summary & Profitability Dashboard** 
 
-Project Overview
+**Project Overview**
 This project focuses on analyzing sales and profitability data using Microsoft Excel. I created an interactive dashboard to present key business metrics and visualize monthly revenue, gross profit, country-wise sales performance, regional comparisons, and revenue distribution across sales channels.
 
-Tools & Skills Used
+**Tools & Skills Used**
 - Microsoft Excel
 - PivotTables and PivotCharts
 - KPI Calculations
 - Data Visualization
 - Excel Slicers
-- 
-Dashboard Features
+  
+**Dashboard Features**
 1. Monthly Revenue and Profit Analysis
 A line chart comparing monthly revenue and gross profit from January to December.
 2. Top 5 Countries by Revenue
@@ -24,7 +24,7 @@ A map chart displaying the geographical distribution of revenue across countries
 6. Interactive Filters
 Slicers allow users to filter dashboard data by product category, country, and quarter.
 
-Key Performance Indicators (KPIs)
+**Key Performance Indicators (KPIs)**
 - Total Revenue: $645,223
 - Total Gross Profit: $296,384
 - Gross Profit Margin: 45.94%
@@ -32,5 +32,5 @@ Key Performance Indicators (KPIs)
 - Total Orders: 2,707
 - Cost of Goods Sold (COGS): $348,839
 
-What I Learned
+**What I Learned**
 Through this project, I practised preparing and summarizing sales data, calculating business KPIs, creating PivotTables and charts, and organizing visualizations into an interactive dashboard. I also learned how slicers help users explore data and make reports easier to understand.
