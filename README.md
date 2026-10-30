@@ -23,6 +23,8 @@ A doughnut chart comparing revenue distribution across Central Europe, Northern 
 A map chart displaying the geographical distribution of revenue across countries.
 6. Interactive Filters:
 Slicers allow users to filter dashboard data by product category, country, and quarter.
+<img width="1297" height="627" alt="Executive_ _Summary_Dashboard" src="https://github.com/user-attachments/assets/d2e67abb-3926-476d-8e0f-06b1fa88ad46" />
+
 
 **Key Performance Indicators (KPIs)**
 - Total Revenue: $645,223
